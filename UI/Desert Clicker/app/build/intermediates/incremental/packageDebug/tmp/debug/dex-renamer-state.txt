@@ -1,0 +1,4 @@
+#Mon Mar 07 15:06:53 EAT 2022
+base.0=/home/smith/My learning/AAD/UI/Desert Clicker/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
