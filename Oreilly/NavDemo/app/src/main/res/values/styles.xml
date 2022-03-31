@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.NavDemo.PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:minHeight">48dp</item>
+        <item name="backgroundTint">@color/yellow</item>
+    </style>
+
+    <style name="Widget.NavDemo.SecondaryButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:minHeight">48dp</item>
+        <item name="colorOutline">@color/yellow</item>
+    </style>
+</resources>
