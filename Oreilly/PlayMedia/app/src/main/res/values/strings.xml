@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayMedia</string>
+    <string name="play_text">play</string>
+    <string name="pause_text">pause</string>
+</resources>
